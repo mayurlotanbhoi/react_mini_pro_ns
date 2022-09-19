@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_mini_pro_ns/static/css/main.a8ebaf38.css",
+    "main.js": "/react_mini_pro_ns/static/js/main.ee991306.js",
+    "static/media/home.jpg": "/react_mini_pro_ns/static/media/home.37fec18efc30702b6704.jpg",
+    "index.html": "/react_mini_pro_ns/index.html",
+    "main.a8ebaf38.css.map": "/react_mini_pro_ns/static/css/main.a8ebaf38.css.map",
+    "main.ee991306.js.map": "/react_mini_pro_ns/static/js/main.ee991306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ebaf38.css",
+    "static/js/main.ee991306.js"
+  ]
+}
